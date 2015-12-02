@@ -1,0 +1,11 @@
+﻿Build started 2015-12-01 오후 1:35:41.
+     1>Project "C:\Users\IM-34\Documents\GitHub\LecPython\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\im-34\documents\github\lecpython\consoleapplication7\consoleapplication7\source.cpp(162): error C2039: '<<' : is not a member of 'PFArrayD<T>'
+     1>Done Building Project "C:\Users\IM-34\Documents\GitHub\LecPython\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29
